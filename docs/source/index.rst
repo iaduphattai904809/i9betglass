@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+I9BET - Link trang chủ chính thức 2024 - i9bet.glass
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`I9BET <https://i9bet.glass/>`_ nổi bật như một địa chỉ cá cược trực tuyến uy tín. Với chất lượng dịch vụ cao và trải nghiệm độc đáo, I9BET thu hút một lượng lớn người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin chi tiết:
 
-.. note::
+Website: https://i9bet.glass/
 
-   This project is under active development.
+Địa chỉ: 177/56B Bùi Hữu Nghĩa, Phường 7, Quận 5, Hồ Chí Minh, Việt Nam
 
-Contents
---------
+Phone: 0978146581
 
-.. toctree::
+Email: info@i9bet.glass
 
-   usage
-   api
+#i9bet, #nha_cai_i9bet, #game_i9bet, #i9bet_casino
